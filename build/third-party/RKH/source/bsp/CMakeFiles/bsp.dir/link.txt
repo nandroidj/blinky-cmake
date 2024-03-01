@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libbsp.a CMakeFiles/bsp.dir/platform/80x86/linux/assert.c.o CMakeFiles/bsp.dir/platform/80x86/linux/getopt.c.o CMakeFiles/bsp.dir/platform/80x86/linux/hook.c.o CMakeFiles/bsp.dir/platform/80x86/linux/trace_io.c.o CMakeFiles/bsp.dir/platform/80x86/linux/trace_io_tcp.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libbsp.a
